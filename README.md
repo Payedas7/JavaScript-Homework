@@ -8,9 +8,9 @@
 
 In this assignment I have worked on HTML as well as Javascript file.Where I made a link between two ".JS" files , 
     
-    #1) Data.j
+    #1) data.js
     
-    #2) App.js
+    #2) app.js
     
  -this second file was able to handle the click function of search button and reset button according to requirement also this file is containing the code how the search is getting performed.
  
