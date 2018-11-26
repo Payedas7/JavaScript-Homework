@@ -7,8 +7,11 @@
 
 
 In this assignment I have worked on HTML as well as Javascript file.Where I made a link between two ".JS" files , 
+    
     #1) Data.j
+    
     #2) App.js
+    
  -this second file was able to handle the click function of search button and reset button according to requirement also this file is containing the code how the search is getting performed.
  
 The first file is containing of actual data that we are displaying in our HTML page. The Data in this file is in a list format, where the list is of several dictionaries. From the Key field of this dictionary we are able to understand the column names and actual table data we are fetching according to the user input in the mentioned input fields via HTML page.
